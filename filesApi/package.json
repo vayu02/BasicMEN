@@ -1,0 +1,13 @@
+{
+  "name": "filesapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
